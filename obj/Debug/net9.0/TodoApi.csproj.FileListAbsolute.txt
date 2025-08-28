@@ -130,3 +130,4 @@ C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\rjimswa.dswa.cache.js
 C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
