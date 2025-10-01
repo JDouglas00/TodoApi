@@ -132,3 +132,11 @@ C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache
 C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\jpd20327\CascadeProjects\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
 C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\package-lock.json
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
