@@ -140,4 +140,3 @@ C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityMod
 C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\jpd20327\CascadeProjects\TodoApi\bin\Debug\net9.0\System.Text.Json.dll
